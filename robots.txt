@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bharat2791991.github.io/ab-digital-utility/sitemap.xml
